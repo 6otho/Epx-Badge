@@ -278,7 +278,7 @@
       "groupId": "audio-tech",
       "name": "Dolby Atmos",
       "pattern": "(?i)\\b(dolby\\s*atmos|atmos)\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/dolby_atmos.png",
+      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/dolby-vision",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
