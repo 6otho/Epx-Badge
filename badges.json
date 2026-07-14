@@ -135,7 +135,7 @@
       "groupId": "video-tech",
       "name": "Dolby Vision",
       "pattern": "(?i)\\b(dolby\\s*vision|dovi|dv)\\b",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/dolby-vison.png",
+      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/dolby-vision.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
