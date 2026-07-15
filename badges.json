@@ -109,7 +109,7 @@
       "groupId": "resolution",
       "name": "720p HD",
       "pattern": "(?i)\\b720p\\b",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/720p-1.svg",
+      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/720px.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
