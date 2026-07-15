@@ -83,7 +83,7 @@
       "groupId": "resolution",
       "name": "4K Ultra HD",
       "pattern": "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/4k.svg",
+      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/4K.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
