@@ -1,18 +1,3 @@
-{
-  "filters": [
-    {
-      "id": "remux",
-      "groupId": "source",
-      "name": "REMUX",
-      "pattern": "(?i)\\bremux\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/remux.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
-      "type": "filter"
-    },
     {
       "id": "blu-ray-disc",
       "groupId": "source",
