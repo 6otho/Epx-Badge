@@ -109,7 +109,7 @@
       "groupId": "video-tech",
       "name": "HDR10+",
       "pattern": "(?i)\\b(hdr10\\+|hdr10\\s*plus\\b|hdr\\s*10\\s*\\+)",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/hdr10-px.svg",
+      "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/hdr10p.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
