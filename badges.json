@@ -31,12 +31,12 @@
       "groupId": "source",
       "name": "HDTV",
       "pattern": "(?i)\\bhdtv\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/HDTV_transparent_4x.png",
+      "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/hdtv.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "isEnabled": false,
+      "isEnabled": true,
       "type": "filter"
     },
     {
@@ -44,12 +44,12 @@
       "groupId": "source",
       "name": "DVD RIP",
       "pattern": "(?i)\\b(dvd[\\s._-]?rip|dvdrip)\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/DVD_RIP_transparent_4x.png",
+      "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/dvd.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "isEnabled": false,
+      "isEnabled": true,
       "type": "filter"
     },
     {
@@ -161,12 +161,12 @@
       "groupId": "video-tech",
       "name": "IMAX Enhanced",
       "pattern": "(?i)\\b(imax[\\s._-]*enhanced)\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/imax_enhanced.png",
+      "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/imax-e.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "isEnabled": false,
+      "isEnabled": true,
       "type": "filter"
     },
     {
@@ -174,12 +174,12 @@
       "groupId": "video-tech",
       "name": "IMAX",
       "pattern": "(?i)\\b(imax)\\b(?![\\s._-]*enhanced)",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/imax.png",
+      "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/imax.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "isEnabled": false,
+      "isEnabled": true,
       "type": "filter"
     },
     {
@@ -252,12 +252,12 @@
       "groupId": "audio-tech",
       "name": "TrueHD",
       "pattern": "(?i)\\b(truehd|true\\s*hd|dolby\\s*truehd)\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/truehd.png",
+      "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/true-hd.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "isEnabled": false,
+      "isEnabled": true,
       "type": "filter"
     },
     {
