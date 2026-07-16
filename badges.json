@@ -1,11 +1,24 @@
 {
   "filters": [
     {
+      "id": "4k-ultra-hd",
+      "groupId": "resolution",
+      "name": "4K Ultra HD",
+      "pattern": "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
+      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/4Kx-1.svg",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
       "id": "blu-ray-disc",
       "groupId": "source",
       "name": "Blu-ray Disc",
       "pattern": "(?i)\\b(blu[\\s._-]?ray|bluray|bdrip|bdremux)\\b",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/blu-ray-disc.png",
+      "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/blu-raydisc.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
@@ -37,19 +50,6 @@
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
       "isEnabled": false,
-      "type": "filter"
-    },
-    {
-      "id": "4k-ultra-hd",
-      "groupId": "resolution",
-      "name": "4K Ultra HD",
-      "pattern": "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/refs/heads/main/Badges/4Kx-1.svg",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
       "type": "filter"
     },
     {
