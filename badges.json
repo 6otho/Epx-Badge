@@ -265,7 +265,7 @@
       "groupId": "audio-tech",
       "name": "TrueHD",
       "pattern": "(?i)\\b(truehd|true\\s*hd|dolby\\s*truehd)\\b",
-      "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/true-hd.svg",
+      "imageURL": "https://github.com/6otho/Epx-Badge/raw/refs/heads/main/Badges/true-hd-1.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
