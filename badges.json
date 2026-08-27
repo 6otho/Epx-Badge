@@ -236,45 +236,6 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "dv-profile",
-      "id": "custom_dolby-vision-p5",
-      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P5-b.svg",
-      "isEnabled": true,
-      "name": "Dolby Vision P5",
-      "pattern": "(?i)\\b(?:dovi|dv|dolby[\\s._-]*vision)[\\s._-]*(?:p(?:rofile)?[.\\s_-]?0?5|0?5)\\b|\\bprofile[.\\s_-]?0?5\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "filled",
-      "textColor": "#00000000",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "dv-profile",
-      "id": "custom_dolby-vision-p7",
-      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P7-b.svg",
-      "isEnabled": true,
-      "name": "Dolby Vision P7",
-      "pattern": "(?i)\\b(?:dovi|dv|dolby[\\s._-]*vision)[\\s._-]*(?:p(?:rofile)?[.\\s_-]?0?7|0?7)\\b|\\bprofile[.\\s_-]?0?7\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "filled",
-      "textColor": "#00000000",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "dv-profile",
-      "id": "custom_dolby-vision-p8",
-      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P8-b.svg",
-      "isEnabled": true,
-      "name": "Dolby Vision P8",
-      "pattern": "(?i)\\b(?:dovi|dv|dolby[\\s._-]*vision)[\\s._-]*(?:p(?:rofile)?[.\\s_-]?0?8|0?8)\\b|\\bprofile[.\\s_-]?0?8\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "filled",
-      "textColor": "#00000000",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
       "groupId": "audio-tech",
       "id": "custom_dolby-atmos_19",
       "imageURL": "https://github.com/6otho/EplayerX-TagStyler/raw/refs/heads/main/images/dolby-atmos-f.svg",
@@ -379,6 +340,45 @@
     },
     {
       "borderColor": "#00000000",
+      "groupId": "dv-profile",
+      "id": "custom_dolby-vision-p5",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P5-b.svg",
+      "isEnabled": true,
+      "name": "Dolby Vision P5",
+      "pattern": "(?i)\\b(?:dovi|dv|dolby[\\s._-]*vision)[\\s._-]*(?:p(?:rofile)?[.\\s_-]?0?5|0?5)\\b|\\bprofile[.\\s_-]?0?5\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "dv-profile",
+      "id": "custom_dolby-vision-p7",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P7-b.svg",
+      "isEnabled": true,
+      "name": "Dolby Vision P7",
+      "pattern": "(?i)\\b(?:dovi|dv|dolby[\\s._-]*vision)[\\s._-]*(?:p(?:rofile)?[.\\s_-]?0?7|0?7)\\b|\\bprofile[.\\s_-]?0?7\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "dv-profile",
+      "id": "custom_dolby-vision-p8",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P8-b.svg",
+      "isEnabled": true,
+      "name": "Dolby Vision P8",
+      "pattern": "(?i)\\b(?:dovi|dv|dolby[\\s._-]*vision)[\\s._-]*(?:p(?:rofile)?[.\\s_-]?0?8|0?8)\\b|\\bprofile[.\\s_-]?0?8\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
       "groupId": "audio-channels",
       "id": "c7",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/7.1-d.svg",
@@ -443,16 +443,16 @@
     {
       "borderColor": "#00000000",
       "color": "#00000000",
-      "id": "dv-profile",
+      "id": "audio-tech",
       "isExpanded": true,
-      "name": "Profile"
+      "name": "Audio Tech"
     },
     {
       "borderColor": "#00000000",
       "color": "#00000000",
-      "id": "audio-tech",
+      "id": "dv-profile",
       "isExpanded": true,
-      "name": "Audio Tech"
+      "name": "Profile"
     },
     {
       "borderColor": "#00000000",
