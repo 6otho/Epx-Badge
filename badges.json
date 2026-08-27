@@ -2,7 +2,7 @@
   "filters": [
     {
       "borderColor": "#00000000",
-      "groupId": "gr",
+      "groupId": "resolution",
       "id": "r4",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/4Kx-1.svg",
       "isEnabled": true,
@@ -15,7 +15,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "gs",
+      "groupId": "source",
       "id": "s-bluray",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/blu-raydisc.svg",
       "isEnabled": true,
@@ -28,7 +28,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "gs",
+      "groupId": "source",
       "id": "s-uhdbd",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/u-hd-blu-ray.svg",
       "isEnabled": true,
@@ -41,7 +41,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "gs",
+      "groupId": "source",
       "id": "s-hdtv",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/hdtv.svg",
       "isEnabled": true,
@@ -54,7 +54,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "gs",
+      "groupId": "source",
       "id": "s-dvd",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/dvd.svg",
       "isEnabled": true,
@@ -67,7 +67,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "gr",
+      "groupId": "resolution",
       "id": "r1",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/1080p-a.svg",
       "isEnabled": true,
@@ -80,7 +80,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "gr",
+      "groupId": "resolution",
       "id": "r7",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/720p-b.svg",
       "isEnabled": true,
@@ -236,7 +236,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "video-tech",
+      "groupId": "dv-profile",
       "id": "custom_dolby-vision-p5",
       "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P5-b.svg",
       "isEnabled": true,
@@ -249,7 +249,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "video-tech",
+      "groupId": "dv-profile",
       "id": "custom_dolby-vision-p7",
       "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P7-b.svg",
       "isEnabled": true,
@@ -262,7 +262,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "video-tech",
+      "groupId": "dv-profile",
       "id": "custom_dolby-vision-p8",
       "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P8-b.svg",
       "isEnabled": true,
@@ -379,7 +379,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "gc",
+      "groupId": "audio-channels",
       "id": "c7",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/7.1-d.svg",
       "isEnabled": true,
@@ -392,7 +392,7 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "gc",
+      "groupId": "audio-channels",
       "id": "c5",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/5.1-d.svg",
       "isEnabled": true,
@@ -408,23 +408,58 @@
     {
       "borderColor": "#00000000",
       "color": "#27C04F",
-      "id": "gs",
+      "id": "source",
       "isExpanded": true,
       "name": "Source"
     },
     {
       "borderColor": "#FF858283",
       "color": "#FFBE01",
-      "id": "gr",
+      "id": "resolution",
       "isExpanded": true,
       "name": "Resolution"
     },
     {
       "borderColor": "#00000000",
-      "color": "#FFD700",
-      "id": "gc",
+      "color": "#00000000",
+      "id": "video-tech",
       "isExpanded": true,
-      "name": "Channels"
+      "name": "Video Tech"
+    },
+    {
+      "borderColor": "#00000000",
+      "color": "#00000000",
+      "id": "video-codec",
+      "isExpanded": true,
+      "name": "Video Codec"
+    },
+    {
+      "borderColor": "#00000000",
+      "color": "#00000000",
+      "id": "bit-depth",
+      "isExpanded": true,
+      "name": "Bit Depth"
+    },
+    {
+      "borderColor": "#00000000",
+      "color": "#00000000",
+      "id": "dv-profile",
+      "isExpanded": true,
+      "name": "Profile"
+    },
+    {
+      "borderColor": "#00000000",
+      "color": "#00000000",
+      "id": "audio-tech",
+      "isExpanded": true,
+      "name": "Audio Tech"
+    },
+    {
+      "borderColor": "#00000000",
+      "color": "#FFD700",
+      "id": "audio-channels",
+      "isExpanded": true,
+      "name": "Audio Channels"
     }
   ]
 }
