@@ -210,32 +210,6 @@
     },
     {
       "borderColor": "#00000000",
-      "groupId": "bit-depth",
-      "id": "custom_10bit_17",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/10bit.png",
-      "isEnabled": true,
-      "name": "10Bit",
-      "pattern": "(?i)\\b(10[\\s._-]?bit|10b|hi10p)\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "filled",
-      "textColor": "#00000000",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "bit-depth",
-      "id": "custom_8bit_18",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/8bit.png",
-      "isEnabled": true,
-      "name": "8Bit",
-      "pattern": "(?i)\\b(8[\\s._-]?bit|8b)\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "filled",
-      "textColor": "#00000000",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
       "groupId": "audio-tech",
       "id": "custom_dolby-atmos_19",
       "imageURL": "https://github.com/6otho/EplayerX-TagStyler/raw/refs/heads/main/images/dolby-atmos-f.svg",
@@ -379,6 +353,32 @@
     },
     {
       "borderColor": "#00000000",
+      "groupId": "bit-depth",
+      "id": "custom_10bit_17",
+      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/10bit.png",
+      "isEnabled": true,
+      "name": "10Bit",
+      "pattern": "(?i)\\b(10[\\s._-]?bit|10b|hi10p)\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "bit-depth",
+      "id": "custom_8bit_18",
+      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/8bit.png",
+      "isEnabled": true,
+      "name": "8Bit",
+      "pattern": "(?i)\\b(8[\\s._-]?bit|8b)\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
       "groupId": "audio-channels",
       "id": "c7",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/7.1-d.svg",
@@ -436,13 +436,6 @@
     {
       "borderColor": "#00000000",
       "color": "#00000000",
-      "id": "bit-depth",
-      "isExpanded": true,
-      "name": "Bit Depth"
-    },
-    {
-      "borderColor": "#00000000",
-      "color": "#00000000",
       "id": "audio-tech",
       "isExpanded": true,
       "name": "Audio Tech"
@@ -453,6 +446,13 @@
       "id": "dv-profile",
       "isExpanded": true,
       "name": "Profile"
+    },
+    {
+      "borderColor": "#00000000",
+      "color": "#00000000",
+      "id": "bit-depth",
+      "isExpanded": true,
+      "name": "Bit Depth"
     },
     {
       "borderColor": "#00000000",
