@@ -15,6 +15,32 @@
     },
     {
       "borderColor": "#00000000",
+      "groupId": "resolution",
+      "id": "r1",
+      "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/1080p-a.svg",
+      "isEnabled": true,
+      "name": "1080p Full HD",
+      "pattern": "(?i)\\b1080[pi]?\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "resolution",
+      "id": "r7",
+      "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/720p-b.svg",
+      "isEnabled": true,
+      "name": "720p HD",
+      "pattern": "(?i)\\b720[pi]?\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
       "groupId": "source",
       "id": "s-bluray",
       "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/blu-raydisc.svg",
@@ -60,32 +86,6 @@
       "isEnabled": true,
       "name": "DVD RIP",
       "pattern": "(?i)\\b(dvd[\\s._-]?rip|dvdrip)\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "resolution",
-      "id": "r1",
-      "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/1080p-a.svg",
-      "isEnabled": true,
-      "name": "1080p Full HD",
-      "pattern": "(?i)\\b1080[pi]?\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "resolution",
-      "id": "r7",
-      "imageURL": "https://cdn.jsdelivr.net/gh/6otho/Epx-Badge@main/Badges/720p-b.svg",
-      "isEnabled": true,
-      "name": "720p HD",
-      "pattern": "(?i)\\b720[pi]?\\b",
       "tagColor": "#00000000",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
@@ -406,18 +406,18 @@
   ],
   "groups": [
     {
-      "borderColor": "#00000000",
-      "color": "#27C04F",
-      "id": "source",
-      "isExpanded": true,
-      "name": "Source"
-    },
-    {
       "borderColor": "#FF858283",
       "color": "#FFBE01",
       "id": "resolution",
       "isExpanded": true,
       "name": "Resolution"
+    },
+    {
+      "borderColor": "#00000000",
+      "color": "#27C04F",
+      "id": "source",
+      "isExpanded": true,
+      "name": "Source"
     },
     {
       "borderColor": "#00000000",
