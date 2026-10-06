@@ -342,7 +342,7 @@
       "borderColor": "#00000000",
       "groupId": "dv-profile",
       "id": "custom_dolby-vision-p8",
-      "imageURL": "https://github.com/6otho/EplayerX-TagStyler/raw/refs/heads/main/images/dbv-p8x.svg",
+      "imageURL": "https://github.com/6otho/EplayerX-TagStyler/raw/refs/heads/main/images/dbv-p8z.svg",
       "isEnabled": true,
       "name": "Dolby Vision P8",
       "pattern": "(?i)(?:profile|p)[\\s:_ -]*0?8(?:\\.1|\\.4|\\.0)?|(?:dvhe|dvh1|dva1|dvav)\\.0?8|(?:dovi|dv|dbv|dolby[\\s._-]*vision)[.\\s_-]*(?:p(?:rofile)?[.\\s_-]?0?8|0?8)|(?:dbv|dv|dovi)p0?8",
