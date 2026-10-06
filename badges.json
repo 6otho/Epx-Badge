@@ -329,7 +329,7 @@
       "borderColor": "#00000000",
       "groupId": "dv-profile",
       "id": "custom_dolby-vision-p7",
-      "imageURL": "https://github.com/6otho/EplayerX-TagStyler/raw/refs/heads/main/images/dbv-p7z.svg",
+      "imageURL": "https://github.com/6otho/EplayerX-TagStyler/raw/refs/heads/main/images/dbv-p7y.svg",
       "isEnabled": true,
       "name": "Dolby Vision P7",
       "pattern": "(?i)(?:profile|p)[\\s:_ -]*0?7(?:\\.0|\\.6)?|(?:dvhe|dvh1|dva1|dvav)\\.0?7|(?:dovi|dv|dbv|dolby[\\s._-]*vision)[.\\s_-]*(?:p(?:rofile)?[.\\s_-]?0?7|0?7)|(?:dbv|dv|dovi)p0?7",
