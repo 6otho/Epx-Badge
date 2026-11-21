@@ -415,6 +415,58 @@
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "fps",
+      "id": "custom_fps_120",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/120fps.svg",
+      "isEnabled": true,
+      "name": "120 FPS",
+      "pattern": "(?i)\\b119\\.880?(?:[\\s._-]*fps)?\\b|\\b120(?:\\.0+)?[\\s._-]*fps\\b|\\b120\\.0{1,3}\\b|\\b120p\\b|\\b(?:4k|2160p?|1080p?|720p?)[\\s._-]*120(?:p|fps)?\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "fps",
+      "id": "custom_fps_60",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/60fps.svg",
+      "isEnabled": true,
+      "name": "60 FPS",
+      "pattern": "(?i)\\b59\\.940?(?:[\\s._-]*fps)?\\b|\\b60(?:\\.0+)?[\\s._-]*fps\\b|\\b60\\.0{1,3}\\b|\\b60p\\b|\\b(?:4k|2160p?|1080p?|720p?)[\\s._-]*60(?:p|fps)?\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "fps",
+      "id": "custom_fps_25",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/25fps.svg",
+      "isEnabled": true,
+      "name": "25 FPS",
+      "pattern": "(?i)\\b25(?:\\.0+)?[\\s._-]*fps\\b|\\b25\\.0{1,3}\\b|\\b25p\\b|\\b(?:4k|2160p?|1080p?|720p?)[\\s._-]*25(?:p|fps)?\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "fps",
+      "id": "custom_fps_24",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/24fps.svg",
+      "isEnabled": true,
+      "name": "24 FPS",
+      "pattern": "(?i)\\b(?:23\\.(?:97[68]?|980?)|24\\.(?:97[568]|980?))(?:[\\s._-]*fps)?\\b|\\b24(?:\\.0+)?[\\s._-]*fps\\b|\\b24\\.0{1,3}\\b|\\b24p\\b|\\b(?:4k|2160p?|1080p?|720p?)[\\s._-]*24(?:p|fps)?\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled",
+      "textColor": "#00000000",
+      "type": "filter"
     }
   ],
   "groups": [
@@ -480,6 +532,13 @@
       "id": "gc",
       "isExpanded": true,
       "name": "Channels"
+    },
+    {
+      "borderColor": "#00000000",
+      "color": "#00000000",
+      "id": "fps",
+      "isExpanded": true,
+      "name": "Frame Rate"
     }
   ]
 }
